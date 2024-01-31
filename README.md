@@ -1,6 +1,6 @@
 # Snake Game Using JavaScript
 
-# Play the game here 👉 : [Play Now](https://ramithperera.github.io/snakeGame/){target="_blank"}
+# Play the game here 👉 : [Play Now](https://ramithperera.github.io/snakeGame/)
 
 ## Used Technologies
 - HTML5 Canvas API for game rendering.
